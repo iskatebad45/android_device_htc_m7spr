@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_m7spr.mk \
-    $(LOCAL_DIR)/du_m7spr.mk
+    $(LOCAL_DIR)/omni_m7spr.mk
