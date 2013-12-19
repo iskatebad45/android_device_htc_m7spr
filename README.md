@@ -1,4 +1,3 @@
-android_device_htc_m7spr
-========================
+Copyright 2013 - The CyanogenMod Project
 
-Sprint HTC One Omnirom Device Files
+Device configuration for the HTC One (Sprint model).
